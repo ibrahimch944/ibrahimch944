@@ -67,7 +67,6 @@ Security-focused professional with expertise in designing robust SOC architectur
 </div>
 
 ## 🎓 Certifications & Achievements
-- [x] TryHackMe: Top ranked on platform ([@brahimchourradi](https://tryhackme.com/p/yourusername))
 - [ ] Certified Ethical Hacker (CEH)
 - [ ] CompTIA Security+
 - [ ] AWS Certified Security - Specialty
@@ -75,13 +74,6 @@ Security-focused professional with expertise in designing robust SOC architectur
 - [ ] Kubernetes Security Essentials
 
 ## 📫 Let's Connect
-<p align="center">
-  <a href="https://www.linkedin.com/in/ibrahimchourradi">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://tryhackme.com/p/brahimchourradi">
-    <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white"/>
-  </a>
   <a href="mailto:ibrahimch.944@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
