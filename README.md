@@ -61,8 +61,8 @@ Security-focused professional with expertise in designing robust SOC architectur
 ## 📈 GitHub Stats
 <div align="center">
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=brahimchourradi&show_icons=true&theme=radical&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=brahimchourradi&layout=compact&theme=radical&hide_border=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ibrahimch944&show_icons=true&theme=radical&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahimch944&layout=compact&theme=radical&hide_border=true)
 
 </div>
 
