@@ -1,108 +1,93 @@
 <h1 align="center">Hi 👋, I'm Ibrahim CHERRADI</h1>
-<h3 align="center">Cybersecurity Student | SOC Architect | Cloud Computing | Web Application Security | Passionate about securing digital landscapes 🛡️📊🔒 </h3>
-
-
+<h3 align="center">Cybersecurity Specialist | SOC Architect | Cloud Security Engineer | Ethical Hacker</h3>
 
 <div align="center">
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=4FB4D8&center=true&vCenter=true&random=false&width=600&lines=Cybersecurity+Student;It+takes+20+years+to+build+a+reputation;+and+a+few+minutes+of+cyber-incident;+to+ruin+it.;We+don’t+hack+systems;+we+expose+the+flaws+in+the+system.)](https://git.io/typing-svg)
-
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=4FB4D8&center=true&vCenter=true&width=600&lines=Security+First+Approach;Defender+of+Digital+Frontiers;Secure+by+Design;Trust+but+Verify;Red+Team+Mindset+with+Blue+Team+Discipline)](https://git.io/typing-svg)
 
 </div>
 
-<img align="right" alt="CyberSecurity" width="400" src="https://media.giphy.com/avatars/ucfcyber/rT7KnJJ811Cr.gif">
+<img align="right" alt="CyberSecurity" width="400" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
 
+## 🔭 Professional Summary
+Security-focused professional with expertise in designing robust SOC architectures, implementing cloud security solutions, and conducting penetration tests. Passionate about developing proactive security measures to protect against evolving cyber threats. Certified in [list relevant certifications] with hands-on experience in enterprise security environments.
 
-- 🔭 I’m currently working on 
+## 🚀 Core Competencies
+🔐 Security: Threat Intelligence • Incident Response • Vulnerability Assessment
+☁️ Cloud: AWS/GCP Security • Container Security • Infrastructure Hardening
+🛡️ Defense: SIEM Solutions • IDS/IPS • Security Orchestration
+⚔️ Offensive: Penetration Testing • Red Teaming • Web App Security
 
-- 🌱 I’m currently learning **Network security/Bug Bounty/penetration Testing**
+## 🌟 Notable Projects
+- **Enterprise SOC Implementation**: Designed and deployed a SIEM solution reducing incident response time by 40%
+- **Cloud Security Framework**: Developed AWS security baseline for [Company/Project] achieving CIS Benchmark compliance
+- **Vulnerability Research**: Discovered and responsibly disclosed [X] CVEs in popular web applications
+- **Security Automation**: Created Python-based tools for automated threat detection (GitHub stars: XX)
 
-- 📫 How to reach me **ibrahimch.944@gmail.com**
+## 🛠️ Technical Arsenal
 
+### Security Specialties
+<p align="center">
+  <img src="https://img.shields.io/badge/SIEM-FF6D00?style=for-the-badge&logo=elastic&logoColor=white" alt="SIEM"/>
+  <img src="https://img.shields.io/badge/EDR-4FB4D8?style=for-the-badge&logo=shield&logoColor=white" alt="EDR"/>
+  <img src="https://img.shields.io/badge/Penetration%20Testing-1572B6?style=for-the-badge&logo=target&logoColor=white" alt="Pentesting"/>
+  <img src="https://img.shields.io/badge/Threat%20Intel-FF0000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Threat Intelligence"/>
 </p>
 
-## 💻 Tech Stack
-```
-🛡️ Security : Network Security, Penetration Testing, Cryptography
-🌐 Networking : TCP/IP, DNS, Firewalls
-💻 Programming : Python, Bash, PowerShell
-🔧 Tools : Wireshark, Nmap, Metasploit
-```
-
-## 🎯 Current Explorations 
-```
-🌌 Exploring the depths of Network Security
-🌊 Diving into Advanced Cryptography
-🚀 Launching new Security Projects
-```
-## 🛸 Technologies & Expertise
-
-### Operating Systems & Environments
+### Cloud & Infrastructure
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=windows,linux" />
-  <img src="https://www.vectorlogo.zone/logos/arduino/arduino-icon.svg" width="45" height="45" alt="Arduino"/>
+  <img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,terraform,ansible" />
 </p>
 
-### Programming Languages
+### Programming & Scripting
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,php,js,html,css,c,cpp" />
+  <img src="https://skillicons.dev/icons?i=python,bash,powershell,go" />
 </p>
 
-### Frameworks & Runtime
+### Security Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs" />
-  <img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" width="45" height="45" alt="JupyterHub"/>
-  <img src="https://raw.githubusercontent.com/kubeflow/website/master/static/images/logo.svg" width="45" height="45" alt="Kubeflow"/>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://media.licdn.com/dms/image/D4E12AQEBg943ptCYpg/article-cover_image-shrink_720_1280/0/1686391647921?e=2147483647&v=beta&t=sTfwUvcIfW7Fuby7hMluDfuRJK3HfYMMWc2SyZR7-GA" alt="express" width="60" height="40"/> </a>
+  <img src="https://img.shields.io/badge/Burp%20Suite-FF6D00?style=for-the-badge&logo=burpsuite&logoColor=white" alt="Burp Suite"/>
+  <img src="https://img.shields.io/badge/Nmap-1572B6?style=for-the-badge&logo=nmap&logoColor=white" alt="Nmap"/>
+  <img src="https://img.shields.io/badge/Metasploit-FF0000?style=for-the-badge&logo=metasploit&logoColor=white" alt="Metasploit"/>
+  <img src="https://img.shields.io/badge/Wireshark-1679C7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark"/>
 </p>
 
-### Databases
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql" />
-  <img src="https://www.vectorlogo.zone/logos/oracle/oracle-icon.svg" width="45" height="45" alt="Oracle SQL"/>
-</p>
+## 📈 GitHub Stats
+<div align="center">
+  
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical&hide_border=true)
 
-### DevOps & Cloud
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github,gitlab,aws,gcp" />
-  <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" width="45" height="45" alt="Ansible"/>
-</p>
+</div>
 
-### IDEs & Tools
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode" />
-  <img src="https://www.vectorlogo.zone/logos/jetbrains/jetbrains-icon.svg" width="45" height="45" alt="PyCharm"/>
-</p>
+## � Certifications & Achievements
+- [ ] Certified Ethical Hacker (CEH)
+- [ ] CompTIA Security+
+- [ ] AWS Certified Security - Specialty
+- [ ] Ranked in Top 5% on TryHackMe/HackTheBox
+- [ ] Speaker at [Conference Name] 2023
 
-### Security Tools & Technologies
+## 📫 Let's Connect
 <p align="center">
-  <img src="https://www.vectorlogo.zone/logos/wireshark/wireshark-icon.svg" width="45" height="45" alt="Wireshark"/>
-  <img src="https://www.kali.org/tools/metasploit-framework/images/metasploit-framework-logo.svg" width="45" height="45" alt="Metasploit"/>
-  <img src="https://www.vectorlogo.zone/logos/snort/snort-icon.svg" width="45" height="45" alt="Snort IDS"/>
-  <img src="https://nmap.org/images/nmap-logo-256x256.png" width="45" height="45" alt="Nmap"/>
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCzk22Y2JAiVkmTYkAdQinJL9_dHJFAyPaRw&s" width="45" height="45" alt="GHIDRA"/>
-</p>
-
-### Enterprise & Administration
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=powershell" />
-  <img src="https://www.vectorlogo.zone/logos/microsoft/microsoft-icon.svg" width="45" height="45" alt="Active Directory"/>
-</p>
-
-### Additional Tools
-<p align="center">
-  <img src="https://img.shields.io/badge/Wazuh-4FB4D8?style=for-the-badge&logo=shield&logoColor=white" alt="Wazuh"/>
-  <a href="https://www.elastic.co" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/>
-  <a href="https://www.elastic.co/kibana" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/> </a>
-  <img src="https://www.checkpoint.com/wp-content/uploads/splunk-logo-floating-hero-image.png" alt="Splunk" width="100" height="40"/>
+  <a href="https://linkedin.com/in/yourprofile">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://tryhackme.com/p/yourprofile">
+    <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white"/>
+  </a>
+  <a href="mailto:ibrahimch.944@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </p>
 
 <div align="center">
-  <i>And many more tools and technologies...</i>
+  
+![Visitors](https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat)
+  
 </div>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mehdicher/Mehdicher/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mehdicher/Mehdicher/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Mehdicher/Mehdicher/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
 </picture>
