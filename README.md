@@ -64,8 +64,7 @@ Security-focused professional with expertise in designing robust SOC architectur
 - [ ] Certified Ethical Hacker (CEH)
 - [ ] CompTIA Security+
 - [ ] AWS Certified Security - Specialty
-- [ ] Ranked in Top 5% on TryHackMe/HackTheBox
-- [ ] Speaker at [Conference Name] 2023
+- [ ] Ranked on TryHackMe/HackTheBox
 
 ## 📫 Let's Connect
 <p align="center">
