@@ -3,7 +3,9 @@
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=4FB4D8&center=true&vCenter=true&width=600&lines=Security+First+Approach;Defender+of+Digital+Frontiers;Secure+by+Design;Trust+but+Verify;Red+Team+Mindset+with+Blue+Team+Discipline)](https://git.io/typing-svg)
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=4FB4D8&center=true&vCenter=true&width=600&lines=Security+First+Approach;Defender+of+Digital+Frontiers;Secure+by+Design;Trust+but+Verify;Red+Team+Mindset+with+Blue+Team+Discipline" alt="Typing SVG" />
+  </a>
 
 </div>
 
@@ -13,12 +15,12 @@
 Security-focused professional with expertise in designing robust SOC architectures, implementing cloud security solutions, and conducting penetration tests. Passionate about developing proactive security measures to protect against evolving cyber threats. Certified in [list relevant certifications] with hands-on experience in enterprise security environments.
 
 ## 🚀 Core Competencies
-🔐 Security: Threat Intelligence • Incident Response • Vulnerability Assessment
-☁️ Cloud: AWS/GCP Security • Container Security • Infrastructure Hardening
-🛡️ Defense: SIEM Solutions • IDS/IPS • Security Orchestration
+🔐 Security: Threat Intelligence • Incident Response • Vulnerability Assessment<br>
+☁️ Cloud: AWS/GCP Security • Container Security • Infrastructure Hardening<br>
+🛡️ Defense: SIEM Solutions • IDS/IPS • Security Orchestration<br>
 ⚔️ Offensive: Penetration Testing • Red Teaming • Web App Security
 
-## 🌟 Notable Projects
+## ✨ Notable Projects
 - **Enterprise SOC Implementation**: Designed and deployed a SIEM solution reducing incident response time by 40%
 - **Cloud Security Framework**: Developed AWS security baseline for [Company/Project] achieving CIS Benchmark compliance
 - **Vulnerability Research**: Discovered and responsibly disclosed [X] CVEs in popular web applications
@@ -55,18 +57,18 @@ Security-focused professional with expertise in designing robust SOC architectur
 ## 📈 GitHub Stats
 <div align="center">
   
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical&hide_border=true)
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 
 </div>
 
-## � Certifications & Achievements
+## 📅 Certifications & Achievements
 - [ ] Certified Ethical Hacker (CEH)
 - [ ] CompTIA Security+
 - [ ] AWS Certified Security - Specialty
 - [ ] Ranked on TryHackMe/HackTheBox
 
-## 📫 Let's Connect
+## 📣 Let's Connect
 <p align="center">
   <a href="https://linkedin.com/in/yourprofile">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -80,9 +82,7 @@ Security-focused professional with expertise in designing robust SOC architectur
 </p>
 
 <div align="center">
-  
-![Visitors](https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat)
-  
+  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat" alt="Visitors Counter" />
 </div>
 
 <picture>
